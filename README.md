@@ -18,6 +18,7 @@ Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la U
 - La Rebelión de Huánuco - 3
 - La Rebelión de Huánuco - 4
 - La Rebelión de Huánuco - 5
+***
 
 **Colección: La Rebelión de Túpac Amaru II**
 - La Rebelión de Túpac Amaru II - 1
@@ -27,3 +28,4 @@ Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la U
 - La Rebelión de Túpac Amaru II - 5
 - La Rebelión de Túpac Amaru II - 6
 - La Rebelión de Túpac Amaru II - 7
+***
