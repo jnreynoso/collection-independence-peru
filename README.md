@@ -1,4 +1,4 @@
-## Nueva Colección Documental de la Independencia del Perú
+## Nueva Colección Documental de la Independencia del Perú (PDF Version)
 
 En la década de 1970, con ocasión del Sesquicentenario de la Independencia, apareció la monumental Colección Documental de la Independencia del Perú que, en la pluma de los más importantes estudiosos, constituye aún la más importante investigación acerca de nuestro proceso emancipador. Con vistas al Bicentenario, el Congreso de la República se ha propuesto reeditar la colección en formato digital para beneficio de todos los peruanos, esfuerzo que comprenderá la publicación virtual de tomos que permanecieron inéditos.
 
