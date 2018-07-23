@@ -6,33 +6,33 @@ Iniciamos este proyecto, programado para extenderse hasta el año 2021, con la p
 
 Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la Universidad Peruana de Ciencias Aplicadas y la Fundación M. J. Bustamante de la Fuente que acompañan al Congreso de la República en este enorme esfuerzo por difundir masivamente el conocimiento de las horas fundacionales de la nación.
 
-[IMG01]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-01.png =150x218 "Vida y Obra de José de la Riva Aguero - 1"
+[IMG01]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-01.png "Vida y Obra de José de la Riva Aguero - 1"
 
-[IMG02]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-02.png =150x218 "Vida y Obra de José de la Riva Aguero - 2"
+[IMG02]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-02.png "Vida y Obra de José de la Riva Aguero - 2"
 
-[IMG03]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V1.jpg =150x218 "La Rebelión de Huánuco - 1"
+[IMG03]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V1.jpg "La Rebelión de Huánuco - 1"
 
-[IMG04]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V2.jpg =150x218 "La Rebelión de Huánuco - 2"
+[IMG04]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V2.jpg "La Rebelión de Huánuco - 2"
 
-[IMG05]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V3.jpg =150x218 "La Rebelión de Huánuco - 3"
+[IMG05]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V3.jpg "La Rebelión de Huánuco - 3"
 
-[IMG06]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V4.jpg =150x218 "La Rebelión de Huánuco - 4"
+[IMG06]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V4.jpg "La Rebelión de Huánuco - 4"
 
-[IMG07]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V5.jpg =150x218 "La Rebelión de Huánuco - 5"
+[IMG07]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-huanuco-V5.jpg "La Rebelión de Huánuco - 5"
 
-[IMG08]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V1.jpg =150x218 "La Rebelión de Túpac Amaru II - 1"
+[IMG08]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V1.jpg "La Rebelión de Túpac Amaru II - 1"
 
-[IMG09]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V2.jpg =150x218 "La Rebelión de Túpac Amaru II - 2"
+[IMG09]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V2.jpg "La Rebelión de Túpac Amaru II - 2"
 
-[IMG10]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V3.jpg =150x218 "La Rebelión de Túpac Amaru II - 3"
+[IMG10]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V3.jpg "La Rebelión de Túpac Amaru II - 3"
 
-[IMG11]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V4.jpg =150x218 "La Rebelión de Túpac Amaru II - 4"
+[IMG11]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V4.jpg "La Rebelión de Túpac Amaru II - 4"
 
-[IMG12]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V5.jpg =150x218 "La Rebelión de Túpac Amaru II - 5"
+[IMG12]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V5.jpg "La Rebelión de Túpac Amaru II - 5"
 
-[IMG13]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V6.jpg =150x218 "La Rebelión de Túpac Amaru II - 6"
+[IMG13]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V6.jpg "La Rebelión de Túpac Amaru II - 6"
 
-[IMG14]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V7.jpg =150x218 "La Rebelión de Túpac Amaru II - 7"
+[IMG14]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V7.jpg "La Rebelión de Túpac Amaru II - 7"
 
 
 **Colección: Vida y Obra de José de la Riva Agüero** <br/>
