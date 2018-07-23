@@ -34,14 +34,14 @@ Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la U
 
 [IMG14]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/rebelion-tupac-amaru-V7.jpg "La Rebelión de Túpac Amaru II - 7"
 
-
-**Colección: Vida y Obra de José de la Riva Agüero** <br/>
+***
+### Colección: Vida y Obra de José de la Riva Agüero
 ***
 ![alt text][IMG01]
 ![alt text][IMG02]
 ***
 
-**Colección: La Rebelión de Huánuco de 1812**
+### Colección: La Rebelión de Huánuco de 1812
 ***
 ![alt text][IMG03]
 ![alt text][IMG04]
@@ -50,7 +50,7 @@ Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la U
 ![alt text][IMG07]
 ***
 
-**Colección: La Rebelión de Túpac Amaru II**
+### Colección: La Rebelión de Túpac Amaru II
 ***
 ![alt text][IMG08]
 ![alt text][IMG09]
