@@ -6,7 +6,7 @@ We started this project, scheduled to be extended until the year 2021, with the 
 
 We thank the Association for Culture and Digital Education-ACUEDI, the Peruvian University of Applied Sciences and the MJ Bustamante de la Fuente Foundation that accompany the Congress of the Republic in this enormous effort to massively disseminate the knowledge of the foundational hours of the nation.
 
-[Download/Descargas](https://github.com/jnreynoso/collection-independence-peru/releases/tag/riva-aguero-and-huanuco)
+[Download / Descargas](https://github.com/jnreynoso/collection-independence-peru/releases/tag/riva-aguero-and-huanuco)
 
 [IMG01]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-01.png "Vida y Obra de José de la Riva Aguero - 1"
 
