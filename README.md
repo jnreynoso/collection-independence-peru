@@ -1,12 +1,12 @@
-## Nueva Colección Documental de la Independencia del Perú (PDF Version)
+## New Documentary Collection of the Independence of Peru (PDF Version)
 
-En la década de 1970, con ocasión del Sesquicentenario de la Independencia, apareció la monumental Colección Documental de la Independencia del Perú que, en la pluma de los más importantes estudiosos, constituye aún la más importante investigación acerca de nuestro proceso emancipador. Con vistas al Bicentenario, el Congreso de la República se ha propuesto reeditar la colección en formato digital para beneficio de todos los peruanos, esfuerzo que comprenderá la publicación virtual de tomos que permanecieron inéditos.
+In the 1970s, on the occasion of the Sesquicentennial of Independence, the monumental Documentary Collection of the Independence of Peru appeared, which, in the pen of the most important scholars, is still the most important research about our emancipatory process. With a view to the Bicentennial, the Congress of the Republic has proposed to reprint the collection in digital format for the benefit of all Peruvians, an effort that will include the virtual publication of volumes that remained unpublished.
 
-Iniciamos este proyecto, programado para extenderse hasta el año 2021, con la publicación de la serie La rebelión de Túpac Amaru II. Esta primera entrega consta de siete volúmenes, por contraste con los cuatro de la edición original, pues se han agregado documentos que vieron la luz en los años 1980 bajo el marco de la llamada Colección del bicentenario de la rebelión de Túpac Amaru. Evitando repeticiones, la nueva edición digital contiene información inédita referida a la correspondencia del bando realista y a los procesos judiciales a los que fueron sometidos los rebeldes, nuestros primeros próceres.
+We started this project, scheduled to be extended until the year 2021, with the publication of the series The rebellion of Túpac Amaru II. This first installment consists of seven volumes, in contrast to the four volumes of the original edition, as they have added documents that came to light in the 1980s under the framework of the so-called Bicentennial Collection of the Tupac Amaru rebellion. Avoiding repetitions, the new digital edition contains unpublished information referred to the correspondence of the realistic side and to the judicial processes to which the rebels, our first heroes, were subjected.
 
-Agradecemos a la Asociación por la Cultura y la Educación Digital-ACUEDI, la Universidad Peruana de Ciencias Aplicadas y la Fundación M. J. Bustamante de la Fuente que acompañan al Congreso de la República en este enorme esfuerzo por difundir masivamente el conocimiento de las horas fundacionales de la nación.
+We thank the Association for Culture and Digital Education-ACUEDI, the Peruvian University of Applied Sciences and the MJ Bustamante de la Fuente Foundation that accompany the Congress of the Republic in this enormous effort to massively disseminate the knowledge of the foundational hours of the nation.
 
-[Descargas](https://github.com/jnreynoso/collection-independence-peru/releases/tag/riva-aguero-and-huanuco)
+[Download/Descargas](https://github.com/jnreynoso/collection-independence-peru/releases/tag/riva-aguero-and-huanuco)
 
 [IMG01]: https://raw.githubusercontent.com/jnreynoso/collection-independence-peru/master/images/JRA-01.png "Vida y Obra de José de la Riva Aguero - 1"
 
